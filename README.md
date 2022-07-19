@@ -1,1 +1,1 @@
-# SQL_Practice
+This repo reprecents my practice in SQL.
